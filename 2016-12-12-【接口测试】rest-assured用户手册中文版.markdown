@@ -45,7 +45,7 @@ REST Assured是一个可以简化HTTP Builder顶层 基于REST服务的测试过
   1. [Header](#Header)
   1. [Content-Type](#ContentType)
   1. [请求正文](#请求正文)
-1. [验证响应信息](#验证响应信息)
+1. [验证响应数据](#验证响应数据)
   1. [响应体](#响应体)
   1. [Cookie](#Cookie)
   1. [状态码](#状态码)
